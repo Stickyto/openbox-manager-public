@@ -1,4 +1,4 @@
-const assert = require('assert/strict')
+const assert = require('assert')
 const EventEmitter = require('events')
 const { NFC } = require('nfc-pcsc')
 const ndef = require('@taptrack/ndef')
